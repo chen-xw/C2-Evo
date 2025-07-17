@@ -3,7 +3,7 @@
 [[Paper]](https://www.arxiv.org/abs/)
 
 <div align="center">
-  <img src="assets/teaser.png" alt="PruLong Teaser" width="800">
+  <img src="assets/teaser.png" alt="=C2-Evo Teaser" width="800">
 </div>
 
 This is the homepage for the code release for the preprint "C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning"
