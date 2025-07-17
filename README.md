@@ -19,7 +19,7 @@ Please refer to our paper (linked above) for more details.
 
 ## Contact
 
-Please email Adithya (`chenxw83@mail2.sysu.edu.cn`) if you have any questions.
+Please email Xiuwei (`chenxw83@mail2.sysu.edu.cn`) if you have any questions.
 You can also open a GitHub issue if you encounter any bugs or problems.
 
 ## Citation
