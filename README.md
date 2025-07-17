@@ -5,7 +5,7 @@
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff; padding:20px;">
   <tr>
     <td align="center">
-      <img src="assets/teaser.png" alt="PruLong Teaser" width="800">
+      <img src="assets/teaser.png" alt="C2-Evo Teaser" width="800">
     </td>
   </tr>
 </table>
