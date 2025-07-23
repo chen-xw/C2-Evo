@@ -1,6 +1,6 @@
 # C2-Evo
 
-[[Paper]]([https://www.arxiv.org/abs/](https://arxiv.org/abs/2507.16518))
+[[Paper]](https://arxiv.org/abs/2507.16518)
 
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff; padding:20px;">
   <tr>
