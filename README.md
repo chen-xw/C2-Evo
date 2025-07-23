@@ -1,6 +1,6 @@
 # C2-Evo
 
-[[Paper]](https://www.arxiv.org/abs/)
+[[Paper]]([https://www.arxiv.org/abs/](https://arxiv.org/abs/2507.16518))
 
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff; padding:20px;">
   <tr>
@@ -34,7 +34,7 @@ If you use this code in your research, please cite our paper:
 @misc{bhaskar2025cache,
     title={C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning}, 
     author={Xiuwei Chen, Wentao Hu, Hanhui Li, Jun Zhou, Zisheng Chen, Meng Cao, Yihan Zeng, Kui Zhang, Yu-jie Yuan, Jianhua Han, Hang Xu, Xiaodan Liang},
-    journal={arXiv preprint arXiv:},
+    journal={arXiv preprint arXiv:2507.16518},
     year={2025}
 }
 ```
