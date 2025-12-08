@@ -62,7 +62,7 @@ We propose propose C2-Evo, an automatic, closed-loop self-improving framework th
 </details>
 
 ## News
-- [2025-12-07] We have released our code. 🔦
+- [2025-12-08] We have released our code. 🔦
 - [2025-07-29] Our paper is now accessible at [https://arxiv.org/pdf/2502.15130](https://arxiv.org/pdf/2507.16518)! 
 
 ## Installation
